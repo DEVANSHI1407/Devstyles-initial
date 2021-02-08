@@ -1,0 +1,54 @@
+#title{background-color: #ff4C68;
+       color:white;
+       background-image:url("jewellery background image.jpg");
+
+background-size:cover;
+
+}
+
+/* #title.container-fluid{padding:7% 15%;}
+h1,h2,h3,h4,h5,h6{ font-family:"Montserrat-black";}  (way of combining selectors together known as multiple selectors.)
+/*#title background-image{
+       filter: blur(4px);
+background-position:top;
+background-size: auto;}*/
+
+   body{font-family: "Montserrat-black"}
+h2{font-size:3rem;line-height:1.5;  font-family: "Montserrat-black";font-weight:bold;}
+i:hover{color:#ff4c68;}
+p{color:#8f8f8f;font-size: 1.2rem;}
+.container-fluid{
+             padding:3% 0; }
+.pclass{color:#8f8f8f;font-size: 1.2rem;}
+/*navigation bar*/
+/*.navbar{padding:0 0 4.5rem;}*/
+.navbar-brand{ font-family: "Ubuntu";font-size:2rem;font-weight: bold;}
+.nav-item{padding: 0 18px;}
+.nav-link{font-size: 1.2rem;
+font-family:"Montserrat-light";}
+/*download button*/
+.download-button{margin: 5% 2% 5% 0;}
+.title-img{;transform: rotate(25deg); margin-left: 30px;}
+#features{padding: 7% 10% ;text-align:center;background-color: white;}
+.red{color:#ef8172;margin-bottom: 1rem;}
+.features-h2{font-family: "Montserrat-black";font-size: 1.7rem;font-weight: bolder;}
+.features-div{padding: 0 5%;}
+#testimonials{background-color:#ef8172 ;text-align: center;color:white;}
+.testimonials-img{width:15%;border-radius: 100%;margin: 20px;}
+.testimonials-h2{font-family: "Montserrat-black";font-size:1.7rem;font-weight: bold;}
+#press{background-color:#ef8172 ; ;text-align: center;}
+.press-img{width:10%;padding:1%;}
+.carousel-item{padding:5% 10%;}
+#pricing{padding: 50px 100px;text-align: center;line-height:2;}
+.pricing-img{width:40%;border-radius: 100%;}
+.pricing-card{padding: 3% 2%;}
+.pricingem{font-family: "Montserrat-black";font-weight:bolder;}
+/*@media (max-width:1028px){.title-img{position:static;tranform:rotate(0);#title{text-align:center;}}}*/
+#cta{font-style:"Montserrat-black";
+    background-color:#ff4c68;
+    text-align:center;
+    color:#fff;
+    padding:7%;
+  }
+#footer{text-align: center;  padding:5%;}
+.footericon{ padding:1%;padding-bottom: 2%;color:black;}
